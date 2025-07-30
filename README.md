@@ -117,7 +117,7 @@ WP Mini Program API 是一个专为微信小程序设计的 WordPress 插件，�
 ```
 const config = {
   // WordPress网站的API域名
-  apiBaseUrl: 'https://wp.lxzt.fun/wp-json/wp-mini-program/v1'
+  apiBaseUrl: 'https://your website/wp-json/wp-mini-program/v1'
 }
 
 module.exports = config
